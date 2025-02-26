@@ -22,7 +22,6 @@ elif len(numerodividido) >= 4:
     centena = numerodividido[1]
     milhar = numerodividido[0]
 
-# Imprimir os resultados
 print("Unidade: ", unidade)
 print("Dezena: ", dezena)
 print("Centena: ", centena)

@@ -1,3 +1,5 @@
+#Exercicio para manipulação de strings
+
 numero = str(input("Digite um número: "))
 
 numerodividido = list(numero)
